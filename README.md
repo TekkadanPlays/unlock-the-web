@@ -6,7 +6,7 @@ a progressive movement toward web sovereignty, using nostr + pubky.
 - [noIRC](https://noirc.net/) - IRC with nostr auth
 - [coinOS](https://github.com/coinos/) ([UI](https://github.com/coinos/coinos-ui), [server](https://github.com/coinos/coinos-server))- a web-based bitcoin and nostr client with support for NWC
 
-### Self-sovereign Apps Without Social Integration
+### Self-sovereign Apps Without Nostr + Pubky Integration
 
 - [LogSeq](https://github.com/logseq/logseq/) - A privacy-first, open-source platform for knowledge management and collaboration.
   - needs bridge between user data and network, like a collaborative space (google docs)
