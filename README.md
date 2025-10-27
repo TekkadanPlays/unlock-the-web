@@ -4,8 +4,9 @@ a progressive movement toward web sovereignty
 ### Self-sovereign Apps Without Social Integration
 
 - [LogSeq](https://github.com/logseq/logseq/) - A privacy-first, open-source platform for knowledge management and collaboration.
-  -  needs bridge between user data and network, like a collaborative space (google docs)
-- [OBS Studio](https://github.com/obsproject/obs-studio)
+  - needs bridge between user data and network, like a collaborative space (google docs)
+- [OBS Studio](https://github.com/obsproject/obs-studio) - live streaming and screen recording
+  - needs nostr live event publishing API to owncast
 - [Owncast](https://github.com/owncast/owncast) - single user live video streaming and chat server for running your own live streams.
   - needs kind 30311 live event broadcasting + chat API into ribbit
 
