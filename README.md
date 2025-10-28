@@ -18,7 +18,7 @@ a progressive movement toward web sovereignty, using nostr + pubky.
 
 ### Nostr
 
-- [ribbit](https://github.com/TekkadanPlays/ribbit-android/) - open-source nostr client for Android with future support for:
+- [ribbit](https://github.com/TekkadanPlays/ribbit-android/) - open-source nostr client for Android with <ins>future support</ins> for:
   - embeddable lists/graphs (pages as nested lists, like LogSeq or WorkFlowy, stored in graphs)
   - live streams from owncast
   - PKDNS resolver / Pubky client support (with community interop)
