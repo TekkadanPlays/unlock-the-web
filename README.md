@@ -25,10 +25,10 @@ a progressive movement toward web sovereignty, using nostr + pubky.
  
 ### Pubky
 
-- [awesome-pubky](https://github.com/aljazceru/awesome-pubky/)
+- [awesome-pubky](https://github.com/aljazceru/awesome-pubky/) - directory of pubky resources, libraries, tools and applications
+- [pubky.org](https://pubky.org/) - website and documentation for the Pubky project
 - [pkdns.net](https://pkdns.net/) - PKDNS tools
 - [pubky.app](https://pubky.app/) - live Pubky deployment
 - [pubkyring.app](https://pubkyring.app/) - Pubky mobile keychain app
-- [pubky.org](https://pubky.org/) - website and documentation for the Pubky project
 - [pubky-app-mobile-sdk](https://github.com/pubky/pubky-app-mobile-sdk) - mobile SDK for building Pubky applications
 - [pubky-core-mobile-sdk](https://github.com/pubky/pubky-core-mobile-sdk) - core mobile SDK for Pubky platform integration
