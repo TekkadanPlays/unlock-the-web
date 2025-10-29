@@ -5,7 +5,7 @@ a progressive movement toward web sovereignty, using nostr + pubky.
 
 - [noIRC](https://noirc.net/) - IRC with nostr auth
 - [coinOS](https://github.com/coinos/) ([UI](https://github.com/coinos/coinos-ui), [server](https://github.com/coinos/coinos-server))- a web-based bitcoin and nostr client with support for NWC
-- [nweb](https://github.com/Shugur-Network) - A protocol for publishing and discovering static websites on Nostr. [Demo at Nostr Web](nweb.shugur.com)
+- [nweb](https://github.com/Shugur-Network) - A protocol for publishing and discovering static websites on Nostr. [Demo at Nostr Web](https://nweb.shugur.com)
 
 ### Self-sovereign Apps Without Nostr + Pubky Integration
 
