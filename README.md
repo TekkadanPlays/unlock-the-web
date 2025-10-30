@@ -11,11 +11,13 @@ a progressive movement toward web sovereignty, using nostr + pubky.
 
 - [LogSeq](https://github.com/logseq/logseq/) - A privacy-first, open-source platform for knowledge management and collaboration.
   - needs bridge between user data and network, like a collaborative space (google docs)
+  - for example, [hedgedoc](https://github.com/hedgedoc/hedgedoc/)
 - [OBS Studio](https://github.com/obsproject/obs-studio) - live streaming and screen recording
   - needs plugin for controlling admin API for live event publishing from owncast
 - [Owncast](https://github.com/owncast/owncast) - single user live video streaming and chat server for running your own live streams.
   - needs kind 30311 live event broadcasting + chat API into ribbit
-- [chitchatter](https://github.com/jeremyckahn/chitchatter) - secure peer-to-peer chat that is serverless, decentralized, and ephemeral 
+- [chitchatter](https://github.com/jeremyckahn/chitchatter) - secure peer-to-peer chat that is serverless, decentralized, and ephemeral
+- [OpenTogetherTube](https://github.com/dyc3/opentogethertube) - The easy way to watch videos with your friends.
 
 ### Nostr
 
